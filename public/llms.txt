@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover Adam Rize, the music artist redefining branding a musician in today&#39;s industry. Explore the sound, the story, and the vision that sets this brand apart.
+
+### Music
+https://example.com/music
+Stream and explore Adam Rize&#39;s music catalog — a masterclass in music artist branding examples where every track tells a story and builds a legacy worth following.
+
+### About
+https://example.com/about
+Go behind the brand and meet Adam Rize — a rising force in music artist branding whose journey, influences, and vision are shaping the future of modern entertainment.
+
+### Contact
+https://example.com/contact
+Ready to work with a forward-thinking music artist? Reach out to Adam Rize for bookings, press, and partnerships — where branding a musician meets real opportunity.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
